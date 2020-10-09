@@ -6468,6 +6468,12 @@ public final class Settings {
         public static final String ISLAND_NOTIFICATION = "island_notification";
 
         /**
+         * Whether to show material Dismiss All Button for notifications
+         * @hide
+         */
+        public static final String NOTIFICATION_MATERIAL_DISMISS = "notification_material_dismiss";
+
+        /**
          * Edge scrolling haptics intensity
          * @hide
          */
